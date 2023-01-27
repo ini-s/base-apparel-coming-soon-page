@@ -9,6 +9,7 @@ body {
     background-color: hsl(0, 100%, 98%);
     width: 100vw;
     height: 100vh;
+    overflow-x: hidden;
 }
 
 header {
